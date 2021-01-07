@@ -1,0 +1,332 @@
+{
+  "providerName": "QT",
+  "lastUpdated": "2021-01-02T15:35:20-05:00",
+  "language": "en",
+  "movies": [
+    {
+      "id": "469518751",
+      "title": "QT Episode 1 - \"Best Date Ever\"",
+      "shortDescription": "Princess helps Ja'Nelle prepare for her first date in several months. Dell returns from a Vegas gig to discover that all his utilities have been disconnected. Chelsea is worried that Aaron won't meet an important deadline. Bored with quarantine life, Tony pressures a busy Aaron to hang out. Ja'Nelle and Aaron have an eventful day that leads to a memorable night.",
+      "thumbnail": "https://i.vimeocdn.com/video/979093955_800x450.png",
+      "releaseDate": "2020-10-18T13:44:27-04:00",
+      "genres": [
+        "special"
+      ],
+      "tags": [
+        "QT Episodes Season 1"
+      ],
+      "content": {
+        "dateAdded": "2020-10-18T20:35:09-04:00",
+        "duration": 1153,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/469518751.hd.mp4?s=b7124c81d5b8e05f04d1b0fbdd873d65cff9a081&profile_id=175",
+            "quality": "FHD",
+            "videoType": "MP4",
+            "bitrate": 2920372
+          }
+        ]
+      }
+    },
+    {
+      "id": "469532643",
+      "title": "QT Episode 2 - The Morning After",
+      "shortDescription": "Ja'Nelle reassures a worried Trinity. Ja'Nelle and Aaron recap their epic date to their friends. Chelsea and Aaron hit a snag in their friendship. Terrance issues a stern warning to Nicole. Dell regains his power in more ways than one. Tony's over-indulgence costs him a job.",
+      "thumbnail": "https://i.vimeocdn.com/video/978393024_800x450.png",
+      "releaseDate": "2020-10-18T14:50:54-04:00",
+      "genres": [
+        "special"
+      ],
+      "tags": [
+        "QT Episodes Season 1"
+      ],
+      "content": {
+        "dateAdded": "2020-10-18T20:35:09-04:00",
+        "duration": 1280,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/469532643.hd.mp4?s=388f8b50ead6d8e31aae4ea72757c61fd3c34440&profile_id=175",
+            "quality": "FHD",
+            "videoType": "MP4",
+            "bitrate": 2633206
+          }
+        ]
+      }
+    },
+    {
+      "id": "469547678",
+      "title": "QT Episode 3 - \"Meet the Friends\"",
+      "shortDescription": "At Tony's suggestion Ja'Nelle invites a reluctant Princess to join them for a virtual double date. Nicole calls Dell after he makes a big announcement on social media.",
+      "thumbnail": "https://i.vimeocdn.com/video/978391861_800x450.png",
+      "releaseDate": "2020-10-18T16:01:37-04:00",
+      "genres": [
+        "special"
+      ],
+      "tags": [
+        "QT Episodes Season 1"
+      ],
+      "content": {
+        "dateAdded": "2020-10-18T20:35:09-04:00",
+        "duration": 1166,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/469547678.hd.mp4?s=427e51959d219b078c5beb8714c32a661001eaef&profile_id=175",
+            "quality": "FHD",
+            "videoType": "MP4",
+            "bitrate": 3711792
+          }
+        ]
+      }
+    },
+    {
+      "id": "469564002",
+      "title": "QT Episode 4 - \"All Fun and Games Until...\"",
+      "shortDescription": "When an Armstrong virtual fundraiser takes place, worlds collide at game night.",
+      "thumbnail": "https://i.vimeocdn.com/video/986568465_800x450.png",
+      "releaseDate": "2020-10-18T17:30:13-04:00",
+      "genres": [
+        "special"
+      ],
+      "tags": [
+        "QT Episodes Season 1"
+      ],
+      "content": {
+        "dateAdded": "2020-10-18T20:35:09-04:00",
+        "duration": 1505,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/469564002.hd.mp4?s=95e1d19922b4b8880608a08f832c959362d18cbc&profile_id=175",
+            "quality": "FHD",
+            "videoType": "MP4",
+            "bitrate": 2478102
+          }
+        ]
+      }
+    },
+    {
+      "id": "471973032",
+      "title": "QT Episode 5 - \"Ghosted\"",
+      "shortDescription": "Things take an unexpected turn in the days following game night.",
+      "thumbnail": "https://i.vimeocdn.com/video/986566597_800x450.png",
+      "releaseDate": "2020-10-25T15:02:23-04:00",
+      "genres": [
+        "special"
+      ],
+      "tags": [
+        "QT Episodes Season 1"
+      ],
+      "content": {
+        "dateAdded": "2020-11-04T18:40:09-05:00",
+        "duration": 1134,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/471973032.hd.mp4?s=ae178a21981ea56098b08d28a23d32c5713dbfad&profile_id=175",
+            "quality": "FHD",
+            "videoType": "MP4",
+            "bitrate": 2188162
+          }
+        ]
+      }
+    },
+    {
+      "id": "472004217",
+      "title": "QT Episode 6 - \"Flashback Friday\"",
+      "shortDescription": "8 months before quarantine, life is very different for both Ja'Nelle, Aaron and their friends.",
+      "thumbnail": "https://i.vimeocdn.com/video/986568190_800x450.png",
+      "releaseDate": "2020-10-25T17:45:26-04:00",
+      "genres": [
+        "special"
+      ],
+      "tags": [
+        "QT Episodes Season 1"
+      ],
+      "content": {
+        "dateAdded": "2020-11-04T18:40:09-05:00",
+        "duration": 1729,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/472004217.hd.mp4?s=de02c5fcb994e3515d842ba2e579896a32c298e2&profile_id=175",
+            "quality": "FHD",
+            "videoType": "MP4",
+            "bitrate": 2525513
+          }
+        ]
+      }
+    },
+    {
+      "id": "472016857",
+      "title": "QT Episode 7 - \"Once Bitten, Twice Shy\"",
+      "shortDescription": "As summer begins, relationships are tested.",
+      "thumbnail": "https://i.vimeocdn.com/video/982018746_800x450.png",
+      "releaseDate": "2020-10-25T18:57:14-04:00",
+      "genres": [
+        "special"
+      ],
+      "tags": [
+        "QT Episodes Season 1"
+      ],
+      "content": {
+        "dateAdded": "2020-11-04T18:40:09-05:00",
+        "duration": 1515,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/472016857.hd.mp4?s=2734014d80455a71b3487144cc7b144150cb689a&profile_id=175",
+            "quality": "FHD",
+            "videoType": "MP4",
+            "bitrate": 2227030
+          }
+        ]
+      }
+    },
+    {
+      "id": "472028777",
+      "title": "QT Episode 8 - \"Black Male\"",
+      "shortDescription": "The school year comes to a close, and race becomes a source of contention.",
+      "thumbnail": "https://i.vimeocdn.com/video/986567384_800x450.png",
+      "releaseDate": "2020-10-25T20:03:17-04:00",
+      "genres": [
+        "special"
+      ],
+      "tags": [
+        "QT Episodes Season 1"
+      ],
+      "content": {
+        "dateAdded": "2020-11-04T18:40:09-05:00",
+        "duration": 1793,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/472028777.hd.mp4?s=7947e05412e59fbf9aab7824c781eeea2b1c4a2f&profile_id=175",
+            "quality": "FHD",
+            "videoType": "MP4",
+            "bitrate": 2308060
+          }
+        ]
+      }
+    },
+    {
+      "id": "474476921",
+      "title": "QT Episode 9 - \"Shelter in Place\"",
+      "shortDescription": "Ja'Nelle lies to her friends about her whereabouts. Drew rings in his 30th birthday with a quarantined celebration with the crew.",
+      "thumbnail": "https://i.vimeocdn.com/video/986563733_800x450.png",
+      "releaseDate": "2020-11-01T17:43:33-05:00",
+      "genres": [
+        "special"
+      ],
+      "tags": [
+        "QT Episodes Season 1"
+      ],
+      "content": {
+        "dateAdded": "2020-11-04T18:40:09-05:00",
+        "duration": 2586,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/474476921.hd.mp4?s=02b6f548110da485097e8b7493438414b8a34d3e&profile_id=175",
+            "quality": "FHD",
+            "videoType": "MP4",
+            "bitrate": 2421561
+          }
+        ]
+      }
+    },
+    {
+      "id": "474514884",
+      "title": "QT Episode 10 - \"Phase Three\"",
+      "shortDescription": "Old flames ignite and relationships and friendships are put to the test as the ladies prepare for the launch of Dana's new podcast.",
+      "thumbnail": "https://i.vimeocdn.com/video/986567857_800x450.png",
+      "releaseDate": "2020-11-01T21:20:42-05:00",
+      "genres": [
+        "special"
+      ],
+      "tags": [
+        "QT Episodes Season 1"
+      ],
+      "content": {
+        "dateAdded": "2020-11-04T18:40:09-05:00",
+        "duration": 2631,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/474514884.hd.mp4?s=dd580a81efb5d7fbff651a92a5b138f4d78c778b&profile_id=175",
+            "quality": "FHD",
+            "videoType": "MP4",
+            "bitrate": 2484597
+          }
+        ]
+      }
+    },
+    {
+      "id": "474500042",
+      "title": "QT Episode 11 - \"The Shift\"",
+      "shortDescription": "As everyone adjusted to life in quarantine in April 2020, relationships started to change. Danielle and Rachel discover exactly how small Los Angeles is.",
+      "thumbnail": "https://i.vimeocdn.com/video/986564050_800x450.png",
+      "releaseDate": "2020-11-01T19:58:47-05:00",
+      "genres": [
+        "special"
+      ],
+      "tags": [
+        "QT Episodes Season 1"
+      ],
+      "content": {
+        "dateAdded": "2020-11-04T18:40:09-05:00",
+        "duration": 1642,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/474500042.hd.mp4?s=07e76f2c47a50c546854048fb78734e61434ad1f&profile_id=175",
+            "quality": "FHD",
+            "videoType": "MP4",
+            "bitrate": 1728976
+          }
+        ]
+      }
+    },
+    {
+      "id": "496075112",
+      "title": "QT Season 2 Episode 1 - \"In and Out\"",
+      "shortDescription": "Rome tells Ja’Nelle about his new job. Danielle gets shocking news about the show. Aaron returns from Italy. Mia pops up unexpectedly on Chelsea at work. Terrance spends his birthday alone.",
+      "thumbnail": "https://i.vimeocdn.com/video/1026411549_800x450.png",
+      "releaseDate": "2020-12-31T12:36:05-05:00",
+      "genres": [
+        "miniseries"
+      ],
+      "tags": [
+        "QT Episodes Season 2"
+      ],
+      "content": {
+        "dateAdded": "2020-12-31T16:07:31-05:00",
+        "duration": 1461,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/496075112.hd.mp4?s=946725eba6142328d76fafd4d0be83f70436d8bf&profile_id=175",
+            "quality": "FHD",
+            "videoType": "MP4",
+            "bitrate": 1870026
+          }
+        ]
+      }
+    },
+    {
+      "id": "496110823",
+      "title": "QT Season 2 Episode 2 - \"Business as Usual\"",
+      "shortDescription": "Roger and Mia can't find common ground about business. Dana consults a divorce attorney. Drew has a wild drunken night in Vegas. Reeling from her job loss, Danielle joins Kira and Princess in class.",
+      "thumbnail": "https://i.vimeocdn.com/video/1026528190_800x450.png",
+      "releaseDate": "2020-12-31T15:54:55-05:00",
+      "genres": [
+        "miniseries"
+      ],
+      "tags": [
+        "QT Episodes Season 2"
+      ],
+      "content": {
+        "dateAdded": "2021-01-01T15:11:59-05:00",
+        "duration": 1579,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/496110823.hd.mp4?s=8a72f712927fe8e79d05de0019301f1a7d9ba497&profile_id=175",
+            "quality": "FHD",
+            "videoType": "MP4",
+            "bitrate": 1872922
+          }
+        ]
+      }
+    }
+  ]
+}
